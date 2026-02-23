@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Price,Sales_Rep
+2024-01-15,Laptop,Electronics,2,999.99,John Smith
+2024-01-16,Mouse,Electronics,5,25.50,Sarah Johnson
+2024-01-17,Keyboard,Electronics,3,75.00,John Smith
+2024-01-18,Monitor,Electronics,1,299.99,Mike Davis
+2024-01-19,Tablet,Electronics,4,399.99,Sarah Johnson
+2024-01-20,Headphones,Electronics,6,89.99,Emily Brown
+2024-01-21,Smartphone,Electronics,2,699.99,John Smith
+2024-01-22,Charger,Electronics,8,19.99,Mike Davis
+2024-01-23,Speaker,Electronics,3,149.99,Sarah Johnson
+2024-01-24,Webcam,Electronics,2,79.99,Emily Brown
