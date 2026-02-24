@@ -1,0 +1,24 @@
+
+```json
+{
+    "student_id": "STU001",
+    "name": "Alice Johnson",
+    "age": 20,
+    "major": "Computer Science",
+    "gpa": 3.85,
+    "courses": [
+        {
+            "course_code": "CS101",
+            "course_name": "Introduction to Programming",
+            "credits": 3,
+            "grade": "A"
+        },
+        {
+            "course_code": "MATH201",
+            "course_name": "Calculus II",
+            "credits": 4,
+            "grade": "B+"
+        }
+    ],
+    "active": true
+}
