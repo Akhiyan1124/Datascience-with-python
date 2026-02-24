@@ -1,0 +1,23 @@
+{
+  "company": {
+    "name": "TechInnovate Solutions",
+    "founded": 2010,
+    "departments": {
+      "engineering": {
+        "head": "Dr. Sarah Chen",
+        "teams": {
+          "backend": {
+            "lead": "Alex Thompson",
+            "technologies": ["Python", "Docker"]
+          }
+        }
+      }
+    },
+    "financial": {
+      "revenue": {
+        "2022": 5200000,
+        "2023": 6800000
+      }
+    }
+  }
+}
