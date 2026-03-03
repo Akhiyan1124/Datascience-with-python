@@ -1,0 +1,16 @@
+product_id,product_name,category,price,quantity_sold,sales_date,region
+1,Laptop Pro,Electronics,1299.99,45,2024-01-15,North
+2,Wireless Mouse,Electronics,29.99,120,2024-01-15,South
+3,Office Chair,Furniture,199.99,67,2024-01-16,East
+4,Smartphone X,Electronics,899.99,89,2024-01-16,West
+5,Desk Lamp,Furniture,49.99,34,2024-01-17,North
+6,Tablet Mini,Electronics,399.99,78,2024-01-17,South
+7,Bookshelf,Furniture,149.99,23,2024-01-18,East
+8,Headphones,Electronics,79.99,156,2024-01-18,West
+9,Standing Desk,Furniture,299.99,12,2024-01-19,North
+10,Keyboard Pro,Electronics,129.99,98,2024-01-19,South
+11,Monitor 24inch,Electronics,249.99,67,2024-01-20,East
+12,Coffee Table,Furniture,179.99,45,2024-01-20,West
+13,Webcam HD,Electronics,89.99,87,2024-01-21,North
+14,Filing Cabinet,Furniture,119.99,29,2024-01-21,South
+15,Printer All-in-One,Electronics,199.99,56,2024-01-22,East
