@@ -1,0 +1,6 @@
+"Customer ID,Customer Name,Product Category,Product Name,Order Date,Ship Date,Sales Amount,Quantity Ordered,Unit Price,Discount %,Profit Margin,Region , Country"
+"C001,Ali Khan,Electronics,Laptop,2023-01-10,2023-01-12,1200,1,1200,5,15,Asia,Pakistan"
+"C002,Sara Ahmed,Clothing,T-Shirt,2023-02-05,2023-02-06,25,2,12.5,0,10,Asia,Pakistan"
+"C003,John Smith,Furniture,Chair,2023-03-01,2023-03-03,150,3,50,10,12,Europe,UK"
+"C004,Ayesha Malik,Electronics,Headphones,2023-04-11,2023-04-12,80,2,40,5,20,Asia,Pakistan"
+"C005,,Electronics,Mobile,2023-05-20,2023-05-22,600,1,600,8,18,Asia,Pakistan"
