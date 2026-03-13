@@ -30,3 +30,9 @@ In this lab we explore techniques used in real-world data science projects to cl
 ## Dataset Output
 
 The cleaned dataset is saved as:
+cleaned_customer_data.csv
+---
+
+## Author
+
+Muhammad Akhtar
