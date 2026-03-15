@@ -1,0 +1,26 @@
+patient_id,patient_name,diagnosis,outcome,length_of_stay
+1040,Patient_1040,Hypertension,Recovered,9
+1041,Patient_1041,Heart Disease,Improved,3
+1042,Patient_1042,Diabetes,Referred,7
+1043,Patient_1043,Hypertension,Referred,6
+1044,Patient_1044,Hypertension,Referred,8
+1045,Patient_1045,Pneumonia,Referred,11
+1046,Patient_1046,Asthma,Referred,9
+1047,Patient_1047,Heart Disease,Improved,14
+1048,Patient_1048,Diabetes,Improved,5
+1049,Patient_1049,Pneumonia,Deceased,1
+1050,Patient_1050,Asthma,Referred,3
+1051,Patient_1051,Pneumonia,Improved,10
+1052,Patient_1052,Asthma,Deceased,12
+1053,Patient_1053,Asthma,Referred,8
+1054,Patient_1054,Heart Disease,Recovered,11
+1055,Patient_1055,Asthma,Deceased,6
+1056,Patient_1056,Pneumonia,Improved,8
+1057,Patient_1057,Asthma,Recovered,9
+1058,Patient_1058,Heart Disease,Recovered,4
+1059,Patient_1059,Heart Disease,Recovered,1
+1060,Patient_1060,Pneumonia,Deceased,14
+1061,Patient_1061,Hypertension,Improved,1
+1062,Patient_1062,Hypertension,Recovered,10
+1063,Patient_1063,Asthma,Referred,4
+1064,Patient_1064,Diabetes,Recovered,12

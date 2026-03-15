@@ -1,0 +1,26 @@
+patient_id,patient_name,diagnosis,outcome,length_of_stay
+1000,Patient_1000,Pneumonia,Deceased,7
+1001,Patient_1001,Asthma,Deceased,2
+1002,Patient_1002,Heart Disease,Deceased,4
+1003,Patient_1003,Asthma,Improved,9
+1004,Patient_1004,Asthma,Referred,12
+1005,Patient_1005,Hypertension,Referred,14
+1006,Patient_1006,Heart Disease,Referred,2
+1007,Patient_1007,Heart Disease,Referred,10
+1008,Patient_1008,Heart Disease,Deceased,9
+1009,Patient_1009,Asthma,Improved,10
+1010,Patient_1010,Pneumonia,Improved,5
+1011,Patient_1011,Heart Disease,Deceased,2
+1012,Patient_1012,Asthma,Improved,4
+1013,Patient_1013,Hypertension,Deceased,12
+1014,Patient_1014,Pneumonia,Referred,12
+1015,Patient_1015,Hypertension,Deceased,7
+1016,Patient_1016,Pneumonia,Referred,12
+1017,Patient_1017,Asthma,Referred,13
+1018,Patient_1018,Diabetes,Recovered,8
+1019,Patient_1019,Pneumonia,Deceased,3
+1020,Patient_1020,Hypertension,Recovered,14
+1021,Patient_1021,Asthma,Deceased,1
+1022,Patient_1022,Pneumonia,Deceased,4
+1023,Patient_1023,Diabetes,Recovered,2
+1024,Patient_1024,Diabetes,Recovered,8
