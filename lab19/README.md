@@ -65,3 +65,13 @@ The project includes the following charts:
 - Categorizing delays helps identify operational patterns.
 
 ## Project Structure
+flight-delay-analysis-lab
+│
+├── flights_analysis.ipynb
+├── flights.csv
+└── README.md
+
+
+## Author
+
+Muhammad Akhtar
